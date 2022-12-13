@@ -10,7 +10,7 @@
     "@nestjs/common": "6.8.4",
     "@nestjs/core": "6.8.4",
     "@nestjs/microservices": "6.8.4",
-    "@nestjs/platform-express": "6.8.4",
+    "@nestjs/platform-express": "9.2.1",
     "@nestjs/testing": "6.8.4",
     "@nestjs/websockets": "6.8.4",
     "amqp-connection-manager": "3.0.0",
